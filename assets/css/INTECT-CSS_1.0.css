@@ -33,7 +33,7 @@ body {
     /*background-color: #0f172a;*/
    /* color:#94a3b8;*/
      color:rgb(51, 65, 85);
-    background-color: #fff; 
+    background-color: #fff!important; 
     /* background-color: #fff; */
     /* color:#000; */
     -webkit-tap-highlight-color: transparent;
