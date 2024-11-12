@@ -484,7 +484,7 @@ border-color:transparent;
 .sidebar-wrapper{
 	height: 100%;
 	width: 270px;
-	background-color: #fff;
+	background-color: #fff!important;
 	padding-left: calc(1.5rem * .5);
 	padding-right: calc(1.5rem * .5);
   z-index: 100;
