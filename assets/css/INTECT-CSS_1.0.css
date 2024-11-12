@@ -30,10 +30,10 @@ body {
 	  margin: 0;
 	  font-family: inherit;
     font-size: 1rem;
-    background-color: #0f172a;
-    color:#94a3b8;
-    /* color:rgb(51, 65, 85);
-    background-color: #fff; */
+    /*background-color: #0f172a;*/
+   /* color:#94a3b8;*/
+     color:rgb(51, 65, 85);
+    background-color: #fff; 
     /* background-color: #fff; */
     /* color:#000; */
     -webkit-tap-highlight-color: transparent;
